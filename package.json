@@ -1,0 +1,23 @@
+{
+  "name": "bitcoinus",
+  "version": "1.0.0",
+  "description": "Smart Contracts for bitcoinus.io ICO",
+  "main": "truffle-config.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "truffle test"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bignumber": "^1.1.0",
+    "bignumber.js": "^4.0.2",
+    "chai": "^4.1.2",
+    "chai-as-promised": "^7.1.1",
+    "chai-bignumber": "^2.0.2",
+    "zeppelin-solidity": "1.5.0"
+  },
+  "keywords": []
+}
